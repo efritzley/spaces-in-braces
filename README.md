@@ -1,5 +1,7 @@
 # spaces-in-braces package
 
-A short description of your package.
+This package will add a space before a closing brace if one is added after an
+opening brace.  It will also delete the space before the closing brace if the
+one after the opening brace is deleted.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+This package currently supports the following brace pairs: `{}`, `()`, and `[]`.
