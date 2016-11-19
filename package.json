@@ -1,15 +1,13 @@
 {
   "name": "spaces-in-braces",
   "main": "./lib/spaces-in-braces",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Automatically adds a space before a closing brace if one is added after the opening brace.",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/efritzley/spaces-in-braces",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
